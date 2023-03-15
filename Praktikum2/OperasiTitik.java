@@ -1,5 +1,5 @@
 // OperasiTitik.java 01/03/22
-// Penulis : Rizky Akhmad Fahreza
+// Penulis : Diva Ayunda Najwina
 // Deskripsi : Kelas yang berisi atribut Operasi Titik
 
 class OperasiTitik{
