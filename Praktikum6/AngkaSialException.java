@@ -1,5 +1,5 @@
 /**
-* File      : AngkaSial.java
+* File      : AngkaSialException.java
 * Tanggal   : 29/03/2023
 * Penulis   : Diva Ayunda Najwina
 * Deskripsi : Eksepsi buat sendiri, menolak masukan angka 13!
