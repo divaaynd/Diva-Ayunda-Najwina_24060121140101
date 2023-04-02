@@ -2,7 +2,7 @@
 * File      : Arseri2.java
 * Tanggal   : 29/03/2023
 * Penulis   : Diva Ayunda Najwina
-* Deskripsi : program pengunaan execption buat sendiri Pengenalan klausa 'throw' dan 'throws'
+* Deskripsi : Program untuk demo asersi, yang akan menolak input jari-jari lingkaran yang bernilai nol
 */
 
 / class Lingkaran
